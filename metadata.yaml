@@ -1,5 +1,8 @@
 _repo: A-Text-book-of-Paper-making_56679
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56679-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bevan, E. J. (Edward John)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '25450'
     url: http://www.gutenberg.org/2009/agents/25450
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56679#A-Text-book-of-Paper-making
 gutenberg_issued: '2018-03-04'
 gutenberg_type: Text
 identifiers:
