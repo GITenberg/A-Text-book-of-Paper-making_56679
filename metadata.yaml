@@ -1,0 +1,28 @@
+_repo: A-Text-book-of-Paper-making_56679
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bevan, E. J. (Edward John)
+    alias: Bevan, Edward John
+    birthdate: 1856
+    deathdate: 1921
+    gutenberg_agent_id: '25451'
+    url: http://www.gutenberg.org/2009/agents/25451
+  - agent_name: Cross, C. F. (Charles Frederick)
+    alias: Cross, Charles Frederick
+    birthdate: 1855
+    gutenberg_agent_id: '25450'
+    url: http://www.gutenberg.org/2009/agents/25450
+description: ''
+gutenberg_issued: '2018-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Text-book of Paper-making
+url: http://www.gutenberg.org/ebooks/56679
